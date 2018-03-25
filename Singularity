@@ -65,8 +65,8 @@ From: CNC-UMCG/cnc_base
 	mkdir /scratch
 	mkdir /local-scratch
 
-	run.py /run.py
-	chmod +x /run.py
+#	run.py /run.py
+#	chmod +x /run.py
 
 #	version /version
 
