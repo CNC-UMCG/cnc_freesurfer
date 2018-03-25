@@ -68,6 +68,6 @@ From: CNC-UMCG/cnc_base
 	run.py /run.py
 	chmod +x /run.py
 
-	version /version
+#	version /version
 
-ENTRYPOINT ["/run.py"]
+#ENTRYPOINT ["/run.py"]
